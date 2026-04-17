@@ -52,7 +52,7 @@ bloodbank/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/bloodbank.git
+git clone https://github.com/rosa36-x/BloodBank_Management_System.git
 cd bloodbank
 ```
 
